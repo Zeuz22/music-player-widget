@@ -2,74 +2,74 @@
   "songs": [
     {
       "bg": "#c9bea28f",
-      "artist": "sickick",
-      "songName": "talking to the moon (bruno mars remix)",
+      "artist": "Josean Log",
+      "songName": "Beso",
       "files": {
-        "song": "./assets/media/songs/1/song.mp3",
-        "cover": "./assets/media/songs/1/img.jpg"
+        "song": "./assets/media/songs/1/beso.mp3",
+        "cover": "./assets/media/songs/1/beso.jpeg"
       }
     },
     {
       "bg": "#0896eba1",
-      "artist": "bless you",
-      "songName": "driving",
+      "artist": "Mon Laferte",
+      "songName": "Amor Completo",
       "files": {
-        "song": "./assets/media/songs/2/song.mp3",
-        "cover": "./assets/media/songs/2/img.jpg"
+        "song": "./assets/media/songs/2/amor completo.mp3",
+        "cover": "./assets/media/songs/2/amor completo.jpeg"
       }
     },
     {
       "bg": "#ebbe03",
-      "artist": "lil uzi vert",
-      "songName": "demon high",
+      "artist": "Manuel Medrano",
+      "songName": "Donde Nadie Pueda Ir",
       "files": {
-        "song": "./assets/media/songs/3/song.mp3",
-        "cover": "./assets/media/songs/3/img.jpg"
+        "song": "./assets/media/songs/3/donde nadie pueda ir.mp3",
+        "cover": "./assets/media/songs/3/dnpi.jpeg"
       }
     },
     {
       "bg": "#ffc382",
-      "artist": "travis scott",
-      "songName": "a man",
+      "artist": "Coldplay",
+      "songName": "Yellow",
       "files": {
-        "song": "./assets/media/songs/4/song.mp3",
-        "cover": "./assets/media/songs/4/img.jpg"
+        "song": "./assets/media/songs/4/yellow.mp3",
+        "cover": "./assets/media/songs/4/yellow.jpeg"
       }
     },
     {
       "bg": "#ffcbdc",
-      "artist": "randall",
-      "songName": "waharan",
+      "artist": "Carla Morrison",
+      "songName": "Disfruto",
       "files": {
-        "song": "./assets/media/songs/5/song.mp3",
-        "cover": "./assets/media/songs/5/img.jpg"
+        "song": "./assets/media/songs/5/disfruto.mp3",
+        "cover": "./assets/media/songs/5/disfruto.jpeg"
       }
     },
     {
       "bg": "#44c16fb5",
-      "artist": "tritonal",
-      "songName": "diamonds (feat. rose darling)",
+      "artist": "Gorillaz",
+      "songName": "On Melancholy Hill",
       "files": {
-        "song": "./assets/media/songs/6/song.mp3",
-        "cover": "./assets/media/songs/6/img.jpg"
+        "song": "./assets/media/songs/6/melancoly.mp3",
+        "cover": "./assets/media/songs/6/melancoly.jpeg"
       }
     },
     {
       "bg": "#ff4545",
-      "artist": "the weeknd",
-      "songName": "blinding lights",
+      "artist": "Artic Monkeys",
+      "songName": "I Wanna Be Yours",
       "files": {
-        "song": "./assets/media/songs/7/song.mp3",
-        "cover": "./assets/media/songs/7/img.jpg"
+        "song": "./assets/media/songs/7/wanna be yours.mp3",
+        "cover": "./assets/media/songs/7/wanna be yours.jpeg"
       }
     },
     {
       "bg": "#e5e7e9",
-      "artist": "arizona zervas",
-      "songName": "no i in team",
+      "artist": "Kiss",
+      "songName": "I Was Made For Loving You",
       "files": {
-        "song": "./assets/media/songs/8/song.mp3",
-        "cover": "./assets/media/songs/8/img.jpg"
+        "song": "./assets/media/songs/8/kiss.mp3",
+        "cover": "./assets/media/songs/8/kiss.jpeg"
       }
     }
   ]
